@@ -11,3 +11,4 @@ Fix & Rent es una app que permite solicitar reparaciones, hacer seguimiento en t
 * Juan Mateo Madrigal
 * Emanuel Benavides Leon
 * Violeta Fajardo Calvachi
+* Juan Sebastian Rodriguez Pabon
